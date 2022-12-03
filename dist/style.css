@@ -129,7 +129,7 @@ header .fa-bars{
     font-size: 3.1rem;
     color:var(--pink);
     padding:1rem 0;
-    line-height: 1.5;
+    line-height: .5;
 }
 
 .home .content p{
